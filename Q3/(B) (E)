@@ -1,6 +1,0 @@
-Q3(b) :
-Degree 3. 
-Using interp_coeffs() is better , because it is faster with a simper loop, rather than calling Lagrange_N() again and again.
-
-Q3(e) : 
-The four-point Newton–Cotes is fourth-order accurate, the error decreases proportionally to 1/N^4
